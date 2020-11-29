@@ -1,4 +1,4 @@
-﻿# NEW-ULTIMATE r6.3.4 (FREE)
+﻿# NEW-ULTIMATE r6.3.4 (PERSONAL)
 
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/blob/master/Imagenes/ADM_ULTIMATE_NEW_FREE.jpg)
 
@@ -58,8 +58,8 @@ apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/qhftefty46
 ```
 
 ```
-☆ https://t.me/admmanagerfree ☆
+https://t.me/admmanagerfree
 
 ```
 
-**By: [  ⃘⃤꙰✰ ]**
+**By: [Jav]**
